@@ -1,0 +1,94 @@
+[
+    {
+        "name": "alteration",
+        "short": "alt"
+    },
+    {
+        "name": "fusings",
+        "short": "fuse"
+    },
+    {
+        "name": "alchemy",
+        "short": "alch"
+    },
+    {
+        "name": "chaos",
+        "short": "chaos"
+    },
+    {
+        "name": "gemcutter",
+        "short": "gcp"
+    },
+    {
+        "name": "exalted",
+        "short": "exa"
+    },
+    {
+        "name": "chromatic",
+        "short": "chrom"
+    },
+    {
+        "name": "jeweller",
+        "short": "jew"
+    },
+    {
+        "name": "chance",
+        "short": "chance"
+    },
+    {
+        "name": "cartographer",
+        "short": "chisel"
+    },
+    {
+        "name": "scouring",
+        "short": "scour"
+    },
+    {
+        "name": "blessed",
+        "short": "blessed"
+    },
+    {
+        "name": "regret",
+        "short": "regret"
+    },
+    {
+        "name": "regal",
+        "short": "regal"
+    },
+    {
+        "name": "divine",
+        "short": "divine"
+    },
+    {
+        "name": "vaal",
+        "short": "vaal"
+    },
+    {
+        "name": "annulment",
+        "short": "orb-of-annulment"
+    },
+    {
+        "name": "mirror",
+        "short": "mir"
+    },
+    {
+        "name": "perandus",
+        "short": "p"
+    },
+    {
+        "name": "silver",
+        "short": "silver"
+    },
+    {
+        "name": "apprentice",
+        "short": "apprentice-sextant"
+    },
+    {
+        "name": "journeyman",
+        "short": "journeyman-sextant"
+    },
+    {
+        "name": "master",
+        "short": "master-sextant"
+    }
+]
