@@ -2,7 +2,7 @@
 
 const Sequelize = require('sequelize');
 // Init Database
-const sequelize = new Sequelize('users', 'root', 'sd34Nfn-32s', {
+const sequelize = new Sequelize('users', 'root', '', {
     host: 'localhost',
     dialect: 'sqlite',
     logging: false,
